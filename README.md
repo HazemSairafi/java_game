@@ -1,2 +1,3 @@
 # java_game
-soconumber game in java
+game in java and Intelligent search algorithms ..
+BFS & DFS & A* & UCS & HILL_CLIMBING
